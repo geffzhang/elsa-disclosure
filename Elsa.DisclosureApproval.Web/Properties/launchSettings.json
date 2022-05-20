@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "Elsa.DisclosureApproval.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62732;http://localhost:62733"
+    }
+  }
+}
